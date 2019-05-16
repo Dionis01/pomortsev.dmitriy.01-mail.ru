@@ -1,2 +1,3 @@
-# pomortsev.dmitriy.01-mail.ru
-Stalkersvoboda1
+# ParserText
+ParserText
+For Mobile operator reports
